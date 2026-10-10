@@ -9,6 +9,6 @@
     "sha256": "1a28d5c497d1eddb4907ccd45ef4751c76e97e3b0f7b5432fb09a0874d19bb49",
     "size": 3928277,
     "ram": "3-4 GB",
-    "mods": ["Sodium 0.9.2", "Lithium 0.26.2", "FerriteCore 9.0.0", "ModernFix 5.27.24", "Entity Culling 1.11.3"]
+    "mods": ["Sodium 0.9.2", "Lithium 0.26.2", "FerriteCore 9.0.0", "Entity Culling 1.11.3"]
   }
 ]
